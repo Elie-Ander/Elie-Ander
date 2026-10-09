@@ -13,7 +13,7 @@ Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le mark
 ## <img src="assets/picto-chiffres.svg" width="24" height="24" align="absmiddle" alt=""> En chiffres
 
 <p align="center">
-  <img src="assets/chiffres.png" alt="76 workflows n8n construits, dont 15 en libre accès ici. 5 certifications, dont n8n et HubSpot. 4 recommandations, dont 3 lettres de direction. Plus de 200 utilisateurs de Koudu Job, mon produit IA." width="100%">
+  <img src="assets/chiffres.png" alt="76 workflows n8n construits, dont 16 en libre accès ici. 5 certifications, dont n8n et HubSpot. 4 recommandations, dont 3 lettres de direction. Plus de 200 utilisateurs de Koudu Job, mon produit IA." width="100%">
 </p>
 
 ## <img src="assets/picto-projets.svg" width="24" height="24" align="absmiddle" alt=""> Ce que j'ai construit
@@ -29,7 +29,7 @@ Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le mark
     <td width="50%" valign="top">
       <a href="https://github.com/Elie-Ander/n8n-workflows"><img src="assets/projet-workflows.jpg" alt="Le workflow de veille GEO dans n8n" width="100%"></a>
       <h3>Workflows n8n</h3>
-      <p>15 workflows prêts à importer pour le marketing et les ventes : veille GEO, reporting, qualification de leads, relances. Chacun arrive avec ses notes et sa documentation.</p>
+      <p>16 workflows prêts à importer pour le marketing et les ventes : veille GEO, reporting, qualification de leads, relances. Chacun arrive avec ses notes et sa documentation.</p>
       <p><a href="https://github.com/Elie-Ander/n8n-workflows"><b>Voir le dépôt</b></a></p>
     </td>
   </tr>
