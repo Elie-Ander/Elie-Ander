@@ -8,7 +8,7 @@
   <a href="https://koudujob.com"><img src="https://img.shields.io/badge/Mon%20produit-koudujob.com-C6F135?style=for-the-badge&labelColor=0B1628" alt="Mon produit : koudujob.com"></a>
 </p>
 
-Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le marketing et la technique réunis dans un seul profil. Je construis ce dont j'ai besoin, en code comme en no-code, et je publie ici ce qui peut servir à d'autres.
+Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le marketing et la technique réunis dans un seul profil. Je construis ce dont j'ai besoin, en code comme en no-code, et je publie ici ce qui peut servir à d'autres.
 
 ## <img src="assets/picto-chiffres.svg" width="24" height="24" align="absmiddle" alt=""> En chiffres
 
@@ -23,13 +23,13 @@ Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le marke
     <td width="50%" valign="top">
       <a href="https://github.com/Elie-Ander/whatsapp-agentkit-fr"><img src="assets/projet-agentkit.png" alt="WhatsApp AgentKit" width="100%"></a>
       <h3>WhatsApp AgentKit</h3>
-      <p>Un kit pour Claude Code : il pose 12 questions sur une entreprise, puis écrit et teste son agent WhatsApp. J'y ai ajouté le passage à un humain et le pont vers n8n.</p>
+      <p>Un kit pour Claude Code : il pose 12 questions sur une entreprise, puis écrit et teste son agent WhatsApp. J'y ai ajouté le passage à un humain et le pont vers n8n.</p>
       <p><a href="https://github.com/Elie-Ander/whatsapp-agentkit-fr"><b>Voir le dépôt</b></a> · <a href="https://elie-ander.github.io/whatsapp-agentkit-fr/"><b>Voir le site</b></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Elie-Ander/n8n-workflows"><img src="assets/projet-workflows.jpg" alt="Le workflow de veille GEO dans n8n" width="100%"></a>
       <h3>Workflows n8n</h3>
-      <p>15 workflows prêts à importer pour le marketing et les ventes : veille GEO, reporting, qualification de leads, relances. Chacun arrive avec ses notes et sa documentation.</p>
+      <p>15 workflows prêts à importer pour le marketing et les ventes : veille GEO, reporting, qualification de leads, relances. Chacun arrive avec ses notes et sa documentation.</p>
       <p><a href="https://github.com/Elie-Ander/n8n-workflows"><b>Voir le dépôt</b></a></p>
     </td>
   </tr>
@@ -94,20 +94,20 @@ Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le marke
 
 ## <img src="assets/picto-certifications.svg" width="24" height="24" align="absmiddle" alt=""> Certifications
 
-- **n8n** : Foundations Professional Certificate
-- **HubSpot Academy** : Revenue Operations
+- **n8n** : Foundations Professional Certificate
+- **HubSpot Academy** : Revenue Operations
 
 Cinq certifications en tout. Le détail, avec mon parcours et mes recommandations, est sur [elie.koudujob.com](https://elie.koudujob.com/a/parcours.html).
 
 ## <img src="assets/picto-contact.svg" width="24" height="24" align="absmiddle" alt=""> Me joindre
 
-Marketing digital, automatisation IA, SEO et GEO : je cherche mon prochain poste, partout en France. Je réponds sous 24 heures.
+Marketing digital, automatisation IA, SEO et GEO : je cherche mon prochain poste, partout en France. Je réponds sous 24 heures.
 
 <p>
   <a href="https://elie.koudujob.com"><img src="https://img.shields.io/badge/M'%C3%A9crire-elie.koudujob.com-E8A33D?style=for-the-badge&labelColor=0B1628" alt="M'écrire : elie.koudujob.com"></a>
   <a href="https://www.linkedin.com/in/elie-lissoda"><img src="https://img.shields.io/badge/LinkedIn-Elie%20LISSODA-0A66C2?style=for-the-badge&labelColor=0B1628" alt="LinkedIn : Elie LISSODA"></a>
 </p>
 
-Une question sur un workflow ou sur le kit WhatsApp ? Je suis disponible 😉
+Une question sur un workflow ou sur le kit WhatsApp ? Je suis disponible 😉
 
 **Elie LISSODA**
