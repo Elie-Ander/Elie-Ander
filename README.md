@@ -23,7 +23,7 @@ Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le mark
     <td width="50%" valign="top">
       <a href="https://github.com/Elie-Ander/whatsapp-agentkit-fr"><img src="assets/projet-agentkit.png" alt="WhatsApp AgentKit" width="100%"></a>
       <h3>WhatsApp AgentKit</h3>
-      <p>Un kit pour Claude Code : il pose 12 questions sur une entreprise, puis écrit et teste son agent WhatsApp. J'y ai ajouté le passage à un humain et le pont vers n8n.</p>
+      <p>Un kit pour ChatGPT Astra (Copilot) et Claude Code : il pose 12 questions sur une entreprise, puis écrit et teste son agent WhatsApp. J'y ai ajouté le passage à un humain et le pont vers n8n.</p>
       <p><a href="https://github.com/Elie-Ander/whatsapp-agentkit-fr"><b>Voir le dépôt</b></a> · <a href="https://elie-ander.github.io/whatsapp-agentkit-fr/"><b>Voir le site</b></a></p>
     </td>
     <td width="50%" valign="top">
@@ -37,7 +37,7 @@ Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le mark
     <td width="50%" valign="top">
       <a href="https://koudujob.com"><img src="assets/projet-koudujob.jpg" alt="Le tableau de bord de Koudu Job" width="100%"></a>
       <h3>Koudu Job</h3>
-      <p>Un copilote de recherche d'emploi, conçu, développé et mis en ligne seul. Application web et extension Chrome, dix plateformes connectées, IA de Claude et d'ElevenLabs, paiement Stripe.</p>
+      <p>Un copilote de recherche d'emploi, conçu, développé et mis en ligne seul. Application web et extension Chrome, dix plateformes connectées, API Claude et ElevenLabs, paiement Stripe.</p>
       <p><a href="https://koudujob.com"><b>Voir koudujob.com</b></a></p>
     </td>
     <td width="50%" valign="top">
