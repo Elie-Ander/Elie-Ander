@@ -6,6 +6,7 @@
   <a href="https://elie.koudujob.com"><img src="https://img.shields.io/badge/Portfolio-elie.koudujob.com-E8A33D?style=for-the-badge&labelColor=0B1628" alt="Portfolio : elie.koudujob.com"></a>
   <a href="https://www.linkedin.com/in/elie-lissoda"><img src="https://img.shields.io/badge/LinkedIn-Elie%20LISSODA-0A66C2?style=for-the-badge&labelColor=0B1628" alt="LinkedIn : Elie LISSODA"></a>
   <a href="https://koudujob.com"><img src="https://img.shields.io/badge/Mon%20produit-koudujob.com-C6F135?style=for-the-badge&labelColor=0B1628" alt="Mon produit : koudujob.com"></a>
+  <a href="https://pickfirst.fr"><img src="https://img.shields.io/badge/Outil%20GEO-pickfirst.fr-5B3BE8?style=for-the-badge&labelColor=0B1628" alt="Outil GEO : pickfirst.fr"></a>
 </p>
 
 Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le marketing et la technique réunis dans un seul profil. Je construis ce dont j'ai besoin, en code comme en no-code, et je publie ici ce qui peut servir à d'autres.
@@ -19,6 +20,14 @@ Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le mark
 ## <img src="assets/picto-projets.svg" width="24" height="24" align="absmiddle" alt=""> Ce que j'ai construit
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://pickfirst.fr"><img src="assets/projet-pickfirst.jpg" alt="Le tableau de bord de PickFirst : visibilité dans les IA, part de voix, citations et suivi moteur par moteur" width="100%"></a>
+      <h3>PickFirst</h3>
+      <p>Un outil GEO français, conçu, développé et mis en ligne seul. Il mesure chaque jour si ChatGPT, Claude, Gemini et Perplexity citent une marque, puis dit quoi corriger et quoi publier. Six outils gratuits, un suivi de 3 à 9 moteurs, des workflows n8n branchés aux API des IA.</p>
+      <p><a href="https://pickfirst.fr"><b>Voir pickfirst.fr</b></a> · <a href="https://pickfirst.fr/suivi/tableau?cle=991179cd7d805c654e20bd6d4985161059697ce5"><b>Voir la démo en ligne</b></a></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Elie-Ander/whatsapp-agentkit-fr"><img src="assets/projet-agentkit.png" alt="WhatsApp AgentKit" width="100%"></a>
