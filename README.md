@@ -25,7 +25,7 @@ Workflows n8n et agents IA, SEO et GEO, création graphique et vidéo : le mark
       <a href="https://pickfirst.fr"><img src="assets/projet-pickfirst.jpg" alt="Le tableau de bord de PickFirst : visibilité dans les IA, part de voix, citations et suivi moteur par moteur" width="100%"></a>
       <h3>PickFirst</h3>
       <p>Un outil GEO français, conçu, développé et mis en ligne seul. Il mesure chaque jour si ChatGPT, Claude, Gemini et Perplexity citent une marque, puis dit quoi corriger et quoi publier. Six outils gratuits, un suivi de 3 à 9 moteurs, des workflows n8n branchés aux API des IA.</p>
-      <p><a href="https://pickfirst.fr"><b>Voir pickfirst.fr</b></a> · <a href="https://pickfirst.fr/suivi/tableau?cle=991179cd7d805c654e20bd6d4985161059697ce5"><b>Voir la démo en ligne</b></a></p>
+      <p><a href="https://pickfirst.fr"><b>Voir pickfirst.fr</b></a> · <a href="https://pickfirst.fr/suivi/tableau?cle=991179cd7d805c654e20bd6d4985161059697ce5"><b>Voir la démo en ligne</b></a> · <a href="https://github.com/Elie-Ander/robots-ia"><b>La liste ouverte des 51 robots d’IA</b></a></p>
     </td>
   </tr>
   <tr>
